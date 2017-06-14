@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="db.sqlite3" />
+    <None Include="pooldj - Web Deploy.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="app\samples.json" />
     <Content Include="app\templates\app\details.html" />
